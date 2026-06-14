@@ -49,9 +49,7 @@ The circuit is simple, efficient, and suitable for low-power electronic applicat
 
 ---
 ## Prototype (Video Demonstration)
-
-[▶ Watch Prototype Video](prototype-video.mp4)
-
+▶ **Watch the Working Demo:**https://drive.google.com/file/d/1NZBoqvUosh2n7HhTesGxGYPlvJa01G9g/view?usp=drive_link
 ---
 
 ## Applications
