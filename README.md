@@ -48,10 +48,7 @@ The circuit is simple, efficient, and suitable for low-power electronic applicat
 | Supply | 3V DC |
 
 ---
-
 ## Prototype (Video Demonstration)
-
-Click below to view the working prototype:
 
 [▶ Watch Prototype Video](prototype-video.mp4)
 
